@@ -9,6 +9,7 @@ Letakkan file `core.php` atau copas aja kedalam plugin MWP di `includes/modules/
 - `shuffle()` function untuk me random array
 - `base64en()` function seperti `base64_encode()`
 - `str_text()` function seperti `sanitize_title()` kemudian di `str_replace('-', ' ', $value)`
+- `source_url()` function untuk meredirect url source ke domain.com/source/`ksu93akiekl` url dalam base64_encode
 
 ## Contoh
 
