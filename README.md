@@ -1,6 +1,9 @@
 # mwp-twig-tambahan
 menambahkan beberapa function pada twig template
 
+## Penggunaan
+Letakkan file `core.php` atau copas aja kedalam plugin MWP di `includes/modules/vendor/twig/twig/lib/twig/extension/core.php`
+
 ## Tambahan functions
 
 - `shuffle()` function untuk me random array
